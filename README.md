@@ -54,6 +54,26 @@
 
 <br>
 
+## Projects
+
+<a href="https://github.com/caglaozbb/fullstack-ecommerce">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=caglaozbb&repo=fullstack-ecommerce&theme=tokyonight" />
+
+</a>  
+
+<a href="https://github.com/caglaozbb/kouembedded">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=caglaozbb&repo=kouembedded&theme=tokyonight" />
+
+</a> 
+
+<br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
