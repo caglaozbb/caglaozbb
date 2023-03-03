@@ -35,7 +35,7 @@
   
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/C-Sharp%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C#](https://img.shields.io/badge/CSharp%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
