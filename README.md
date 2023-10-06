@@ -7,8 +7,9 @@ I'm excited to start my career, apply my knowledge, and contribute to innovation
 
 ##
 <h3 align="start" >Connect with me </h3> 
- My Website: https://caglaozbaba.framer.website/ <br>
- My Linkedin: https://www.linkedin.com/in/cagla-ozbaba/ <br>
+ CV: https://flowcv.com/resume/6ifg46oq2v <br>
+ Website: https://caglaozbaba.framer.website/ <br>
+ Linkedin: https://www.linkedin.com/in/cagla-ozbaba/ <br>
  Mail Me: <a href="mailto:caglaozbb@gmail.com?">caglaozbb@gmail.com</a> <br>  <br> 
 
             ／＞　 フ
