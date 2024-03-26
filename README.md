@@ -3,7 +3,7 @@
 
 A passionate Software Developer. <br>
 Currently open for a new job opportunity. <br>
-I'm excited to start my career, apply my knowledge, and contribute to innovation.
+I'm excited to start my career and contribute to innovation.
 
 ##
 <h3 align="start" >Connect with me </h3> 
