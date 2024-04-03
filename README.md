@@ -11,14 +11,3 @@ I'm excited to start my career and contribute to innovation.
  Website: https://caglaozbaba.framer.website/ <br>
  Linkedin: https://www.linkedin.com/in/cagla-ozbaba/ <br>
  Mail Me: <a href="mailto:caglaozbb@gmail.com?">caglaozbb@gmail.com</a> <br>  <br> 
-
-            ／＞　 フ
-            | 　_　_| 
-          ／` ミ＿xノ 
-         /　　　　 |  
-        /　 ヽ　　 ﾉ  Meow-gical Projects ↓
-        │　　|　|　|
-    ／￣|　　 |　|　|
-    (￣ヽ＿_ヽ_)__)
-    ＼二)
- 
