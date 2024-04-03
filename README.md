@@ -1,4 +1,3 @@
-<picture align="center"><img src = "https://media.giphy.com/media/ToMjGpNuOksUiclTp4c/giphy.gif" width = "200"></picture> 
 ## <h3 align="start" >About me </h3> 
 
 A passionate Software Developer. <br>
