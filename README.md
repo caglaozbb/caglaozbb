@@ -1,4 +1,4 @@
-## <h3 align="start" >About me </h3> 
+<h3 align="start" >About me </h3> 
 
 A passionate Software Developer. <br>
 Currently open for a new job opportunity. <br>
